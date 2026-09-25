@@ -86,7 +86,7 @@ The PDF opened successfully, confirming that the recovered password was correct.
 
 ### 📸 Screenshot
 
-<img src="./4-Opened-Sucessfully.png" alt="PDF Opened Successfully" width="800"/>
+<img src="./4-Opened-Successfully.png" alt="PDF Opened Successfully" width="800"/>
 
 ---
 
@@ -142,7 +142,7 @@ The PDF opened successfully, confirming that the password recovery process was s
 
 ### 📸 Screenshot
 
-<img src="./4-Opened-Sucessfully.png" alt="Protected PDF Opened Successfully" width="800"/>
+<img src="./4-Opened-Successfully.png" alt="Protected PDF Opened Successfully" width="800"/>
 
 ---
 
