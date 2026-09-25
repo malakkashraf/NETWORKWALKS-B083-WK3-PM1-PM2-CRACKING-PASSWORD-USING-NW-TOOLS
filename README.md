@@ -236,9 +236,9 @@ The lab helped strengthen my understanding of **hashes, password security, passw
 
 # 👤 Author
 
-**Name:** [Your Full Name]
+**Name:** Malak Ashraf
 
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+**LinkedIn:** www.linkedin.com/in/malak-ashraf-196084370
 
 **Internship:** Cybersecurity Internship — NETWORKWALKS
 
