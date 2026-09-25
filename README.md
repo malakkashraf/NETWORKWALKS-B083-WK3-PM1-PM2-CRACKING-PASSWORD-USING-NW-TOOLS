@@ -52,7 +52,7 @@ John the Ripper was downloaded and configured on the Windows PC. The `john.exe` 
 
 ### 📸 Screenshot
 
-<img src="./screenshots/1-Selected-John-exe.png" alt="Selected John.exe" width="800"/>
+<img src="./1-Selected-John-exe.png" alt="Selected John.exe" width="800"/>
 
 ---
 
@@ -64,7 +64,7 @@ The complete hash was copied and prepared for use with the cracking tool.
 
 ### 📸 Screenshot
 
-<img src="./screenshots/2-Figured-Out-the-hashCrack.png" alt="PDF Hash Extraction" width="800"/>
+<img src="./2-Figured-Out-the-hashCrack.png" alt="PDF Hash Extraction" width="800"/>
 
 ---
 
@@ -74,7 +74,7 @@ The extracted PDF hash was provided to John the Ripper through the Johnny GUI. J
 
 ### 📸 Screenshot
 
-<img src="./screenshots/3-Gotten-the-passwod-JTR.png" alt="Password Recovered Using JTR" width="800"/>
+<img src="./3-Gotten-the-password-JTR.png" alt="Password Recovered Using JTR" width="800"/>
 
 ---
 
@@ -86,7 +86,7 @@ The PDF opened successfully, confirming that the recovered password was correct.
 
 ### 📸 Screenshot
 
-<img src="./screenshots/4-Opened-Sucessfully.png" alt="PDF Opened Successfully" width="800"/>
+<img src="./4-Opened-Sucessfully.png" alt="PDF Opened Successfully" width="800"/>
 
 ---
 
@@ -106,7 +106,7 @@ The tool processed the PDF and generated a password hash beginning with `$pdf$`.
 
 ### 📸 Screenshot
 
-<img src="./screenshots/5-uploaded-pdf-on-calculator.png" alt="PDF Uploaded to Hash Calculator" width="800"/>
+<img src="./5-uploaded-pdf-on-calculator.png" alt="PDF Uploaded to Hash Calculator" width="800"/>
 
 ---
 
@@ -118,7 +118,7 @@ It is important to copy the entire hash without missing any characters.
 
 ### 📸 Screenshot
 
-<img src="./screenshots/6-pasted-the-hash-oncalc.png" alt="Hash Pasted into Password Cracker" width="800"/>
+<img src="./6-pasted-the-hash-oncalc.png" alt="Hash Pasted into Password Cracker" width="800"/>
 
 ---
 
@@ -130,7 +130,7 @@ The tool attempted different password candidates until it found a matching passw
 
 ### 📸 Screenshot
 
-<img src="./screenshots/7-Gotten-the-pass-from-calc.png" alt="Password Recovered Using Networkwalks" width="800"/>
+<img src="./7-Gotten-the-pass-from-calc.png" alt="Password Recovered Using Networkwalks" width="800"/>
 
 ---
 
@@ -142,7 +142,7 @@ The PDF opened successfully, confirming that the password recovery process was s
 
 ### 📸 Screenshot
 
-<img src="./screenshots/4-Opened-Sucessfully.png" alt="Protected PDF Opened Successfully" width="800"/>
+<img src="./4-Opened-Sucessfully.png" alt="Protected PDF Opened Successfully" width="800"/>
 
 ---
 
