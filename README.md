@@ -74,7 +74,7 @@ The extracted PDF hash was provided to John the Ripper through the Johnny GUI. J
 
 ### 📸 Screenshot
 
-<img src="./3-Gotten-the-password-JTR.png" alt="Password Recovered Using JTR" width="800"/>
+<img src="./3%20-Gotten-the-password-JTR.png" alt="Password Recovered Using JTR" width="800"/>
 
 ---
 
